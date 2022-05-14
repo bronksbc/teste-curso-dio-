@@ -1,0 +1,9 @@
+package com.firstprograma;
+
+public class firstprograma {
+	
+	public static void main(String[] args) {
+		System.out.println("hello world");
+	}
+
+}
